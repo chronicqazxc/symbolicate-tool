@@ -13,7 +13,7 @@ sh install.sh
 sh uninstall.sh
 ```
 
-### How to use
+### Usage
 ```shell
 symbolicate-tool Xcode_name dir_of_crash_logs
 ```
