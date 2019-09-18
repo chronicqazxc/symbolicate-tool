@@ -18,4 +18,4 @@ sh uninstall.sh
 symbolicate-tool Xcode_name dir_of_crash_logs
 ```
 
-Author: [chronicqazxc@gmail.com](chronicqazxc@gmail.com)
+Author: [Wayne Hsiao](chronicqazxc@gmail.com)
